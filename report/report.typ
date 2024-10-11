@@ -425,7 +425,9 @@ plt.show()
 #pagebreak(weak: true)
 #block[
 On those graphs, we can see some features that might be used to split
-the data. We can see some that are unsplittable, as the quality..
+the data. We can see some that are unsplittable, as the quality.
+
+We can observe some things that we already know too. Like that the red wines have a residual sugar very low. And that for the whites wine, it depends, some are dry, and other are sweet.
 
 ]
 #block[
